@@ -1,0 +1,51 @@
+[
+    {
+      "title": "Image Classification",
+      "description": "📌 Perceptrons classify images into categories.\n✅ Used in facial recognition, object detection, and medical imaging.\n🔍 Example: Identifying handwritten digits (MNIST dataset).\n👉 Can you think of an industry that benefits from image classification?"
+    },
+    {
+      "title": "Spam Detection",
+      "description": "📌 Perceptrons classify emails as spam or not spam.\n✅ Uses features like keywords, sender, and formatting.\n🔍 Example: Filtering phishing emails in Gmail.\n👉 Have you noticed spam emails being classified incorrectly?"
+    },
+    {
+      "title": "Speech Recognition",
+      "description": "📌 Converts spoken language into text.\n✅ Perceptrons recognize patterns in audio waveforms.\n🔍 Example: Virtual assistants like Siri and Google Assistant.\n👉 What’s your most-used voice command?"
+    },
+    {
+      "title": "Handwriting Recognition",
+      "description": "📌 Perceptrons convert handwritten text into digital text.\n✅ Used in OCR (Optical Character Recognition) systems.\n🔍 Example: Digitizing bank cheques.\n👉 Have you used an OCR tool before?"
+    },
+    {
+      "title": "Credit Risk Assessment",
+      "description": "📌 Banks use perceptrons to assess loan applicants.\n✅ Factors: Credit score, income, past defaults.\n🔍 Example: Approving or rejecting a loan application.\n👉 Would you trust AI to decide your loan eligibility?"
+    },
+    {
+      "title": "Medical Diagnosis",
+      "description": "📌 Detects diseases from medical data (X-rays, ECG, lab tests).\n✅ Used in cancer detection and heart disease prediction.\n🔍 Example: AI diagnosing pneumonia from chest X-rays.\n👉 Should AI be used in critical medical decisions?"
+    },
+    {
+      "title": "Stock Market Prediction",
+      "description": "📌 Analyzes historical trends to predict stock prices.\n✅ Uses features like past prices, trading volume, and market sentiment.\n🔍 Example: Algorithmic trading systems.\n👉 Do you think AI can consistently beat the stock market?"
+    },
+    {
+      "title": "Sentiment Analysis",
+      "description": "📌 Detects emotions in text (positive, negative, neutral).\n✅ Used in social media monitoring and customer reviews.\n🔍 Example: Analyzing tweets about a product launch.\n👉 Have you ever read a review that seemed AI-generated?"
+    },
+    {
+      "title": "Autonomous Vehicles",
+      "description": "📌 Perceptrons help self-driving cars detect obstacles and road signs.\n✅ Process images from cameras and LiDAR sensors.\n🔍 Example: Tesla’s Autopilot feature.\n👉 Would you feel safe in a fully autonomous car?"
+    },
+    {
+      "title": "Fraud Detection",
+      "description": "📌 Identifies fraudulent transactions using historical data.\n✅ Used in banking and cybersecurity.\n🔍 Example: Flagging suspicious credit card transactions.\n👉 Have you ever received a fraud alert from your bank?"
+    },
+    {
+      "title": "Game AI",
+      "description": "📌 Helps NPCs (non-player characters) make intelligent decisions.\n✅ Used in strategy games, racing games, and shooter games.\n🔍 Example: AI opponents in chess or FPS games.\n👉 Which game has the smartest AI you’ve played against?"
+    },
+    {
+      "title": "Customer Support Chatbots",
+      "description": "📌 Perceptrons power chatbots that answer queries.\n✅ Used in e-commerce, banking, and healthcare.\n🔍 Example: AI chatbots on websites providing customer assistance.\n👉 Do you prefer AI chat support or human support?"
+    }
+  ]
+  

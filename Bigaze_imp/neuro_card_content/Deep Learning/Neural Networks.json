@@ -1,0 +1,83 @@
+[
+    {
+      "title": "What is a Neural Network?",
+      "description": "📌 A computational model inspired by the human brain.\n✅ Composed of layers of neurons that process information.\n🔍 Example: Used in speech recognition and self-driving cars.\n👉 Have you ever interacted with an AI-powered system?"
+    },
+    {
+      "title": "Artificial Neuron: The Building Block",
+      "description": "📌 A mathematical model mimicking biological neurons.\n✅ Takes inputs, applies weights, sums them, applies activation function.\n🔍 Example: Predicting house prices based on size, location, and features.\n👉 Can you think of an everyday task a neuron model could automate?"
+    },
+    {
+      "title": "Types of Neural Networks",
+      "description": "📌 Various architectures designed for different tasks.\n✅ Feedforward (FNN), Convolutional (CNN), Recurrent (RNN), Generative Adversarial (GANs), Transformer.\n🔍 Example: CNNs for image processing, RNNs for speech recognition.\n👉 Which type of neural network interests you the most?"
+    },
+    {
+      "title": "Activation Functions",
+      "description": "📌 Determines whether a neuron should be activated.\n✅ Common types: Sigmoid, ReLU, Tanh, Softmax.\n🔍 Example: ReLU (Rectified Linear Unit) is widely used in deep learning.\n👉 Which activation function do you think is best for complex problems?"
+    },
+    {
+      "title": "Feedforward Neural Networks (FNN)",
+      "description": "📌 The simplest type of neural network.\n✅ Data moves in one direction, no loops.\n🔍 Example: Basic classification tasks like spam detection.\n👉 Where have you encountered simple classification problems?"
+    },
+    {
+      "title": "Backpropagation & Gradient Descent",
+      "description": "📌 The learning mechanism of neural networks.\n✅ Backpropagation adjusts weights to minimize error.\n🔍 Example: Training an AI to recognize handwritten digits.\n👉 Have you ever seen an AI improve over time with training?"
+    },
+    {
+      "title": "Convolutional Neural Networks (CNNs)",
+      "description": "📌 Specialized for image recognition and processing.\n✅ Uses convolution layers to detect edges, textures, and patterns.\n🔍 Example: Face recognition in smartphones.\n👉 Can you think of another application of CNNs?"
+    },
+    {
+      "title": "Recurrent Neural Networks (RNNs)",
+      "description": "📌 Designed for sequential data like speech and text.\n✅ Has memory, allowing previous inputs to influence future predictions.\n🔍 Example: Predicting the next word in a sentence (e.g., autocomplete).\n👉 Have you noticed predictive text improving over time?"
+    },
+    {
+      "title": "Long Short-Term Memory (LSTM)",
+      "description": "📌 A special type of RNN that overcomes short-term memory limitations.\n✅ Maintains long-term dependencies.\n🔍 Example: Machine translation and speech recognition.\n👉 Have you used a language translation tool recently?"
+    },
+    {
+      "title": "Transformer Networks & Attention Mechanism",
+      "description": "📌 The backbone of modern NLP models like GPT.\n✅ Uses self-attention to process entire sequences in parallel.\n🔍 Example: ChatGPT, Google Translate, BERT.\n👉 How do you see transformers shaping the future of AI?"
+    },
+    {
+      "title": "Overfitting in Neural Networks",
+      "description": "📌 When a model memorizes training data instead of generalizing.\n✅ Solutions: Regularization, Dropout, Data Augmentation.\n🔍 Example: A neural network that performs well on training data but fails on new data.\n👉 Have you encountered AI making overly confident but incorrect predictions?"
+    },
+    {
+      "title": "Dropout: Preventing Overfitting",
+      "description": "📌 A regularization technique in deep learning.\n✅ Randomly ignores neurons during training to improve generalization.\n🔍 Example: Helps CNNs perform better on unseen images.\n👉 Can you think of an analogy for why removing some neurons helps?"
+    },
+    {
+      "title": "Loss Functions in Neural Networks",
+      "description": "📌 Measures how well a model's predictions match actual values.\n✅ Common types: Mean Squared Error (MSE), Cross-Entropy Loss.\n🔍 Example: Cross-entropy loss is used in classification tasks.\n👉 Have you ever heard of loss functions in optimization problems?"
+    },
+    {
+      "title": "Optimizers in Neural Networks",
+      "description": "📌 Algorithms to update weights and minimize loss.\n✅ Popular ones: Gradient Descent, Adam, RMSprop.\n🔍 Example: Adam optimizer helps deep networks converge faster.\n👉 Do you think a good optimizer is more important than a complex model?"
+    },
+    {
+      "title": "Autoencoders: Learning Efficient Representations",
+      "description": "📌 Neural networks for unsupervised learning.\n✅ Encode input data into a compressed representation, then reconstruct it.\n🔍 Example: Denoising images, anomaly detection in security.\n👉 Where do you think data compression is most useful?"
+    },
+    {
+      "title": "Generative Adversarial Networks (GANs)",
+      "description": "📌 Neural networks that create new, realistic data.\n✅ Composed of a generator and a discriminator competing against each other.\n🔍 Example: Deepfake videos, AI-generated artwork.\n👉 What are the ethical implications of AI-generated content?"
+    },
+    {
+      "title": "Neural Style Transfer",
+      "description": "📌 Using deep learning to apply artistic styles to images.\n✅ Extracts features from one image and applies them to another.\n🔍 Example: Turning a photo into a Van Gogh-style painting.\n👉 Have you ever used AI-based photo filters?"
+    },
+    {
+      "title": "Neural Networks in Healthcare",
+      "description": "📌 AI-driven medical diagnosis and analysis.\n✅ Detecting diseases from medical images, predicting patient outcomes.\n🔍 Example: AI-assisted cancer detection in radiology.\n👉 Do you think AI should have more control in medical decisions?"
+    },
+    {
+      "title": "Self-Supervised Learning in Neural Networks",
+      "description": "📌 Learning without labeled data by generating pseudo-labels.\n✅ Helps train large AI models with minimal human supervision.\n🔍 Example: Facebook’s AI for facial recognition without manual labeling.\n👉 How could self-supervised learning change AI development?"
+    },
+    {
+      "title": "Ethical Concerns in Neural Networks",
+      "description": "📌 Bias, privacy issues, and AI decision accountability.\n✅ AI models can inherit biases from training data.\n🔍 Example: Facial recognition bias affecting certain demographics.\n👉 How should we address fairness in AI systems?"
+    }
+  ]
+  

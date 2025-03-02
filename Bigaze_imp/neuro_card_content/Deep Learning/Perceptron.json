@@ -1,0 +1,47 @@
+[
+    {
+      "title": "What is a Perceptron?",
+      "description": "📌 A fundamental unit of a neural network.\n✅ Mimics a biological neuron, performing weighted sum and activation.\n🔍 Example: Classifying emails as spam or not spam.\n👉 Can you think of a simple task a perceptron could perform?"
+    },
+    {
+      "title": "Structure of a Perceptron",
+      "description": "📌 Consists of input features, weights, bias, activation function, and output.\n✅ Computes weighted sum of inputs and passes it through an activation function.\n🔍 Example: A perceptron with two inputs classifying whether a student passes based on study hours and sleep.\n👉 How does adjusting weights affect the perceptron’s decision?"
+    },
+    {
+      "title": "Mathematical Representation",
+      "description": "📌 Computes: y = f(W · X + b).\n✅ W = Weights, X = Inputs, b = Bias, f = Activation Function.\n🔍 Example: If X1 = 1, X2 = 0, W1 = 2, W2 = -1, b = -0.5, the perceptron computes output y.\n👉 How would different weights affect the perceptron’s output?"
+    },
+    {
+      "title": "Activation Functions in Perceptron",
+      "description": "📌 Determines if the perceptron activates.\n✅ Common activation: Step function, Sigmoid, ReLU.\n🔍 Example: Step function activates only if weighted sum ≥ 0.\n👉 Which activation function do you think works best for complex data?"
+    },
+    {
+      "title": "Types of Perceptrons",
+      "description": "📌 Single-layer perceptron (SLP) vs. Multi-layer perceptron (MLP).\n✅ SLP can only solve linearly separable problems; MLP handles complex problems.\n🔍 Example: XOR problem cannot be solved by an SLP.\n👉 Have you heard of cases where a perceptron fails?"
+    },
+    {
+      "title": "Training a Perceptron",
+      "description": "📌 Uses the Perceptron Learning Algorithm.\n✅ Updates weights using: W_new = W_old + learning_rate * (expected - actual) * input.\n🔍 Example: Training a perceptron to classify circles and squares.\n👉 Can you think of an application where training a perceptron would be useful?"
+    },
+    {
+      "title": "Perceptron Learning Algorithm",
+      "description": "📌 Steps: Initialize weights, compute output, update weights if incorrect.\n✅ Repeats until all training examples are correctly classified.\n🔍 Example: Training a perceptron to distinguish cats from dogs.\n👉 How does increasing the learning rate affect training?"
+    },
+    {
+      "title": "Limitations of a Single-Layer Perceptron",
+      "description": "📌 Can only solve linearly separable problems.\n✅ Fails with XOR problem.\n🔍 Example: A perceptron cannot separate points that require a curved boundary.\n👉 Why do you think multi-layer networks perform better?"
+    },
+    {
+      "title": "Multi-Layer Perceptron (MLP)",
+      "description": "📌 Extends perceptron with hidden layers.\n✅ Uses backpropagation for learning.\n🔍 Example: Recognizing handwritten digits.\n👉 How do hidden layers improve performance?"
+    },
+    {
+      "title": "Perceptron vs. Logistic Regression",
+      "description": "📌 Both are linear classifiers, but logistic regression outputs probabilities.\n✅ Perceptron uses a step function, logistic regression uses sigmoid.\n🔍 Example: Logistic regression is preferred when probability estimation is needed.\n👉 When would you prefer perceptron over logistic regression?"
+    },
+    {
+      "title": "Applications of Perceptron",
+      "description": "📌 Used in pattern recognition, text classification, and medical diagnosis.\n✅ Foundation of modern deep learning.\n🔍 Example: Spam filtering, credit risk assessment.\n👉 Can you think of an industry that relies on perceptrons?"
+    }
+  ]
+  
