@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is Image Processing?",
+    "description": "📌 Manipulating and analyzing images to extract useful information.\n✅ Used in medical imaging, computer vision, and multimedia.\n🔍 Example: Enhancing satellite images for weather forecasting.\n👉 Where have you encountered image processing in daily life?"
+  },
+  {
+    "title": "Types of Image Processing",
+    "description": "📌 Digital vs. Analog Image Processing.\n✅ Digital: Computer-based manipulation (e.g., Photoshop, AI-based enhancement).\n✅ Analog: Optical and film-based processing.\n🔍 Example: Old photo negatives developed using chemical processing.\n👉 Can you think of a scenario where analog processing is still used?"
+  },
+  {
+    "title": "Image Representation: Pixels & Resolution",
+    "description": "📌 Images are grids of pixels with color or grayscale values.\n✅ Higher resolution means more details but larger file size.\n🔍 Example: 1080p vs. 4K resolution in TVs.\n👉 How does resolution affect image clarity in different applications?"
+  },
+  {
+    "title": "Color Spaces: RGB vs. CMYK",
+    "description": "📌 Different ways to represent colors in an image.\n✅ RGB (Red-Green-Blue) for screens, CMYK (Cyan-Magenta-Yellow-Black) for printing.\n🔍 Example: Monitors use RGB, but printers convert it to CMYK.\n👉 Have you noticed color differences between digital screens and prints?"
+  },
+  {
+    "title": "Grayscale & Binary Images",
+    "description": "📌 Simplified images with fewer color values.\n✅ Grayscale: 0 (black) to 255 (white), used in medical scans.\n✅ Binary: Only black & white, useful for OCR and edge detection.\n🔍 Example: QR codes and barcode scanning.\n👉 Where else have you seen binary images in use?"
+  },
+  {
+    "title": "Image Histogram",
+    "description": "📌 Graph showing the distribution of pixel intensities.\n✅ Helps in contrast enhancement and thresholding.\n🔍 Example: Auto-adjusting brightness in smartphone cameras.\n👉 Have you used histogram adjustments in editing software?"
+  },
+  {
+    "title": "Image Filtering: Smoothing & Sharpening",
+    "description": "📌 Used to enhance image quality.\n✅ Smoothing (Blur) reduces noise, Sharpening highlights edges.\n🔍 Example: Instagram filters that smooth skin or sharpen details.\n👉 Which type of filter do you use most in editing?"
+  },
+  {
+    "title": "Edge Detection: Sobel & Canny",
+    "description": "📌 Finding boundaries of objects in an image.\n✅ Sobel: Basic edge detection, Canny: Advanced multi-stage process.\n🔍 Example: Face recognition and license plate detection.\n👉 Where have you seen edge detection applied?"
+  },
+  {
+    "title": "Morphological Operations in Image Processing",
+    "description": "📌 Used in binary image processing for shape manipulation.\n✅ Erosion: Removes small objects, Dilation: Fills gaps.\n🔍 Example: Cleaning up scanned documents for OCR.\n👉 Can you think of another application of these techniques?"
+  },
+  {
+    "title": "Thresholding & Binarization",
+    "description": "📌 Converting grayscale images into black and white.\n✅ Used in text recognition and image segmentation.\n🔍 Example: Extracting text from scanned documents.\n👉 Have you ever converted an image to pure black & white?"
+  },
+  {
+    "title": "Fourier Transform in Image Processing",
+    "description": "📌 Converts images from spatial to frequency domain.\n✅ Helps in noise reduction and watermarking.\n🔍 Example: JPEG compression uses Fourier Transform.\n👉 Have you heard of frequency-based image compression before?"
+  },
+  {
+    "title": "Image Compression: Lossy vs. Lossless",
+    "description": "📌 Reducing image file size.\n✅ Lossy: JPEG (removes some data, smaller file).\n✅ Lossless: PNG (keeps all data, larger file).\n🔍 Example: JPEG for photos, PNG for logos with transparency.\n👉 Which format do you use most for saving images?"
+  },
+  {
+    "title": "Image Segmentation: Region-Based vs. Edge-Based",
+    "description": "📌 Splitting an image into meaningful parts.\n✅ Region-based: Groups similar pixels, Edge-based: Detects boundaries.\n🔍 Example: Self-driving cars detecting road lanes and obstacles.\n👉 Can you think of another area where segmentation is used?"
+  },
+  {
+    "title": "Convolution in Image Processing",
+    "description": "📌 Applying filters (kernels) to transform an image.\n✅ Used in blurring, sharpening, and feature extraction.\n🔍 Example: Convolutional Neural Networks (CNNs) in AI-based vision.\n👉 Have you seen AI-based image enhancement in action?"
+  },
+  {
+    "title": "Machine Learning in Image Processing",
+    "description": "📌 AI-powered image recognition and enhancement.\n✅ Used in medical imaging, facial recognition, and autonomous vehicles.\n🔍 Example: Google Lens identifying objects in real time.\n👉 How do you think AI will change image processing in the future?"
+  },
+  {
+    "title": "Image Restoration vs. Enhancement",
+    "description": "📌 Restoration: Removing distortions (e.g., noise, motion blur).\n✅ Enhancement: Improving quality (e.g., increasing sharpness, contrast).\n🔍 Example: Restoring old damaged photographs.\n👉 Have you ever restored an old photo digitally?"
+  },
+  {
+    "title": "Optical Character Recognition (OCR)",
+    "description": "📌 Converting scanned images of text into digital text.\n✅ Used in document scanning and license plate recognition.\n🔍 Example: Google Translate using OCR for real-time translations.\n👉 Have you used OCR tools to extract text from images?"
+  },
+  {
+    "title": "Super-Resolution Imaging",
+    "description": "📌 Enhancing image resolution beyond its original quality.\n✅ AI-powered methods create sharper images.\n🔍 Example: Zooming into blurry CCTV footage.\n👉 Have you seen AI-based upscaling in action?"
+  },
+  {
+    "title": "Face Detection & Recognition",
+    "description": "📌 Identifying faces in images.\n✅ Used in security, social media, and biometric authentication.\n🔍 Example: Face unlock feature in smartphones.\n👉 How do you feel about facial recognition technology?"
+  },
+  {
+    "title": "Deepfake Technology in Image Processing",
+    "description": "📌 AI-generated realistic but fake images/videos.\n✅ Uses deep learning and GANs (Generative Adversarial Networks).\n🔍 Example: Celebrity face swaps in viral videos.\n👉 What are the ethical concerns surrounding deepfakes?"
+  }
+]
