@@ -1,0 +1,262 @@
+{
+  "topics": [
+    {
+      "id": "topic-english-reading",
+      "name": "Reading Comprehension",
+      "description": "Techniques and strategies for understanding unseen passages and comprehending texts.",
+      "subjectId": "english",
+      "subtopics": [
+        {
+          "id": "subtopic-unseen-passages",
+          "name": "Unseen Passages",
+          "description": "Approaches to skimming, scanning, and inferring meaning from unseen texts.",
+          "cardCount": 10,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-skimming",
+              "name": "Skimming and Scanning",
+              "description": "Techniques to quickly read and identify key information.",
+              "cardCount": 5
+            },
+            {
+              "id": "subsubtopic-inference",
+              "name": "Inference Making",
+              "description": "Drawing logical inferences and conclusions.",
+              "cardCount": 5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-english-writing",
+      "name": "Writing Skills",
+      "description": "Development of effective writing skills through various formats.",
+      "subjectId": "english",
+      "subtopics": [
+        {
+          "id": "subtopic-letter-writing",
+          "name": "Letter Writing",
+          "description": "Guidelines for formal and informal letter writing.",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-formal-letter",
+              "name": "Formal Letters",
+              "description": "Structure, tone, and formatting for official communication.",
+              "cardCount": 4
+            },
+            {
+              "id": "subsubtopic-informal-letter",
+              "name": "Informal Letters",
+              "description": "Techniques for casual and friendly correspondence.",
+              "cardCount": 4
+            }
+          ]
+        },
+        {
+          "id": "subtopic-essay-writing",
+          "name": "Essay Writing",
+          "description": "Strategies for planning, drafting, and refining essays.",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-introduction",
+              "name": "Introduction",
+              "description": "Crafting an engaging and clear introduction.",
+              "cardCount": 3
+            },
+            {
+              "id": "subsubtopic-body",
+              "name": "Body Paragraphs",
+              "description": "Developing coherent arguments and supporting details.",
+              "cardCount": 3
+            },
+            {
+              "id": "subsubtopic-conclusion",
+              "name": "Conclusion",
+              "description": "Summarizing points and providing closure.",
+              "cardCount": 2
+            }
+          ]
+        },
+        {
+          "id": "subtopic-summary-writing",
+          "name": "Summary Writing",
+          "description": "Techniques to condense passages and extract key ideas.",
+          "cardCount": 6,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-main-ideas",
+              "name": "Identifying Main Ideas",
+              "description": "Techniques for finding the central message in a text.",
+              "cardCount": 3
+            },
+            {
+              "id": "subsubtopic-paraphrasing",
+              "name": "Paraphrasing",
+              "description": "Rewriting content in your own words.",
+              "cardCount": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-english-grammar",
+      "name": "Grammar",
+      "description": "Comprehensive coverage of grammar topics as prescribed by the syllabus.",
+      "subjectId": "english",
+      "subtopics": [
+        {
+          "id": "subtopic-tenses",
+          "name": "Tenses",
+          "description": "Understanding and applying various tenses.",
+          "cardCount": 10,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-present",
+              "name": "Present Tense",
+              "description": "Simple, continuous, perfect, and perfect continuous.",
+              "cardCount": 4
+            },
+            {
+              "id": "subsubtopic-past",
+              "name": "Past Tense",
+              "description": "Simple, continuous, perfect, and perfect continuous.",
+              "cardCount": 4
+            },
+            {
+              "id": "subsubtopic-future",
+              "name": "Future Tense",
+              "description": "Simple, continuous, perfect, and perfect continuous.",
+              "cardCount": 4
+            }
+          ]
+        },
+        {
+          "id": "subtopic-direct-indirect",
+          "name": "Direct & Indirect Speech",
+          "description": "Rules and transformations for converting between direct and indirect speech.",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-conversion",
+              "name": "Conversion Techniques",
+              "description": "Key rules and examples for speech conversion.",
+              "cardCount": 4
+            }
+          ]
+        },
+        {
+          "id": "subtopic-active-passive",
+          "name": "Active & Passive Voice",
+          "description": "Transforming sentences between active and passive voice.",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-voice-rules",
+              "name": "Voice Conversion Rules",
+              "description": "Guidelines and practice exercises for voice conversion.",
+              "cardCount": 4
+            }
+          ]
+        },
+        {
+          "id": "subtopic-articles-prepositions",
+          "name": "Articles & Prepositions",
+          "description": "Correct usage of articles (a, an, the) and prepositions.",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-articles",
+              "name": "Articles",
+              "description": "Rules for using a, an, and the.",
+              "cardCount": 4
+            },
+            {
+              "id": "subsubtopic-prepositions",
+              "name": "Prepositions",
+              "description": "Usage and common prepositions in context.",
+              "cardCount": 4
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-english-literature",
+      "name": "English Literature",
+      "description": "A comprehensive collection of literary topics based on the CBSE Class 10 NCERT prescribed texts.",
+      "subjectId": "english",
+      "subtopics": [
+        {
+          "id": "subtopic-prose",
+          "name": "Prose",
+          "description": "Analysis of short stories and passages from the prescribed textbook.",
+          "cardCount": 12,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-letter-to-god",
+              "name": "A Letter to God",
+              "description": "Themes and analysis of the short story 'A Letter to God'.",
+              "cardCount": 5
+            },
+            {
+              "id": "subsubtopic-mandela",
+              "name": "Nelson Mandela: Long Walk to Freedom",
+              "description": "Study of Mandela’s life, struggles, and lessons.",
+              "cardCount": 5
+            },
+            {
+              "id": "subsubtopic-two-stories",
+              "name": "Two Stories",
+              "description": "Analysis of the two short stories as prescribed.",
+              "cardCount": 5
+            }
+          ]
+        },
+        {
+          "id": "subtopic-poetry",
+          "name": "Poetry",
+          "description": "Detailed study of the prescribed poems, their themes, structure, and poetic devices.",
+          "cardCount": 10,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-poem1",
+              "name": "Poem: [Title 1]",
+              "description": "In-depth analysis of the first prescribed poem.",
+              "cardCount": 5
+            },
+            {
+              "id": "subsubtopic-poem2",
+              "name": "Poem: [Title 2]",
+              "description": "In-depth analysis of the second prescribed poem.",
+              "cardCount": 5
+            }
+          ]
+        },
+        {
+          "id": "subtopic-drama",
+          "name": "Drama",
+          "description": "Examination of any prescribed dramatic texts or plays (if applicable).",
+          "cardCount": 8,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-drama1",
+              "name": "Drama Chapter 1",
+              "description": "Detailed study of the first drama chapter.",
+              "cardCount": 4
+            },
+            {
+              "id": "subsubtopic-drama2",
+              "name": "Drama Chapter 2",
+              "description": "Detailed study of the second drama chapter.",
+              "cardCount": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

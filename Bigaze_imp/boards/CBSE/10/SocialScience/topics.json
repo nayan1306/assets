@@ -1,0 +1,91 @@
+{
+    "topics": [
+      {
+        "id": "topic-science-1",
+        "name": "Science Topics",
+        "description": "Explore various topics in Science",
+        "subjectId": "science",
+        "subtopics": [
+          {
+            "id": "subtopic-physics",
+            "name": "Physics",
+            "description": "Study of matter, energy, and the interaction between them",
+            "cardCount": 15,
+            "subsubtopics": [
+              {
+                "id": "subsubtopic-mechanics",
+                "name": "Mechanics",
+                "description": "Study of motion and forces",
+                "cardCount": 5
+              },
+              {
+                "id": "subsubtopic-electricity",
+                "name": "Electricity",
+                "description": "Study of electric charges and currents",
+                "cardCount": 4
+              },
+              {
+                "id": "subsubtopic-optics",
+                "name": "Optics",
+                "description": "Study of light and vision",
+                "cardCount": 6
+              }
+            ]
+          },
+          {
+            "id": "subtopic-chemistry",
+            "name": "Chemistry",
+            "description": "Study of matter, its properties, and reactions",
+            "cardCount": 12,
+            "subsubtopics": [
+              {
+                "id": "subsubtopic-periodic",
+                "name": "Periodic Table",
+                "description": "Elements and their properties",
+                "cardCount": 4
+              },
+              {
+                "id": "subsubtopic-bonding",
+                "name": "Chemical Bonding",
+                "description": "How atoms combine to form molecules",
+                "cardCount": 5
+              },
+              {
+                "id": "subsubtopic-acids",
+                "name": "Acids and Bases",
+                "description": "Properties and reactions of acids and bases",
+                "cardCount": 3
+              }
+            ]
+          },
+          {
+            "id": "subtopic-biology",
+            "name": "Biology",
+            "description": "Study of living organisms and their interactions",
+            "cardCount": 18,
+            "subsubtopics": [
+              {
+                "id": "subsubtopic-cell",
+                "name": "Cell Biology",
+                "description": "Structure and function of cells",
+                "cardCount": 6
+              },
+              {
+                "id": "subsubtopic-genetics",
+                "name": "Genetics",
+                "description": "Study of genes and heredity",
+                "cardCount": 7
+              },
+              {
+                "id": "subsubtopic-physiology",
+                "name": "Human Physiology",
+                "description": "Functions of human body systems",
+                "cardCount": 5
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

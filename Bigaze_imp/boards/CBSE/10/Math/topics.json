@@ -1,0 +1,344 @@
+{
+  "topics": [
+    {
+      "id": "topic-algebra-1",
+      "name": "Algebra",
+      "description": "Study of mathematical symbols and rules including Real Numbers, Polynomials, Linear & Quadratic Equations, and Arithmetic Progressions.",
+      "subjectId": "math",
+      "subtopics": [
+        {
+          "id": "subtopic-real-numbers",
+          "name": "Real Numbers",
+          "description": "Properties of real numbers and their operations",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-euclid-division",
+              "name": "Euclid's Division Lemma",
+              "description": "Fundamental theorem of division algorithm",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-irrational",
+              "name": "Irrational Numbers",
+              "description": "Properties and representation of irrational numbers",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-rational-decimal",
+              "name": "Rational Numbers as Decimals",
+              "description": "Decimal representation of rational numbers",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-polynomials",
+          "name": "Polynomials",
+          "description": "Study of polynomial expressions and equations",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-poly-zeros",
+              "name": "Zeros of Polynomials",
+              "description": "Finding zeros and relationship with coefficients",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-poly-division",
+              "name": "Division Algorithm for Polynomials",
+              "description": "Methods for dividing polynomials",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-poly-factorization",
+              "name": "Factorization of Polynomials",
+              "description": "Techniques to factorize polynomial expressions",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-pair-linear-equations",
+          "name": "Pair of Linear Equations in Two Variables",
+          "description": "Solving systems of linear equations",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-elimination",
+              "name": "Elimination Method",
+              "description": "Solving equations by eliminating variables",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-substitution",
+              "name": "Substitution Method",
+              "description": "Solving equations by substituting variables",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-cross-multiplication",
+              "name": "Cross-Multiplication Method",
+              "description": "Solving equations using determinants",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-quadratic-equations",
+          "name": "Quadratic Equations",
+          "description": "Equations with variables of degree 2",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-quad-solutions",
+              "name": "Solutions of Quadratic Equations",
+              "description": "Finding roots using different methods",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-quad-formula",
+              "name": "Quadratic Formula",
+              "description": "Using the formula to find solutions",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-nature-roots",
+              "name": "Nature of Roots",
+              "description": "Discriminant and properties of roots",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-arithmetic-progressions",
+          "name": "Arithmetic Progressions",
+          "description": "Sequences with a common difference",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-ap-first-term",
+              "name": "First Term and Common Difference",
+              "description": "Finding and using the basic terms of an AP",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-ap-nth-term",
+              "name": "nth Term of an AP",
+              "description": "Formula and application for the general term",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-ap-sum",
+              "name": "Sum of First n Terms",
+              "description": "Formula and applications for the sum",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-geometry",
+      "name": "Geometry",
+      "description": "Study of shapes, sizes, and the properties of space.",
+      "subjectId": "math",
+      "subtopics": [
+        {
+          "id": "subtopic-triangles",
+          "name": "Triangles",
+          "description": "Exploration of properties and theorems related to triangles.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-similarity",
+              "name": "Similarity of Triangles",
+              "description": "Criteria and properties of similar triangles",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-pythagoras",
+              "name": "Pythagoras Theorem",
+              "description": "Relationship between the sides of a right-angled triangle",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-triangle-inequality",
+              "name": "Triangle Inequality",
+              "description": "Understanding the triangle inequality theorem",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-coordinate-geometry",
+          "name": "Coordinate Geometry",
+          "description": "Study of geometry using coordinate systems.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-distance-formula",
+              "name": "Distance Formula",
+              "description": "Calculating the distance between two points",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-section-formula",
+              "name": "Section Formula",
+              "description": "Finding the point dividing a line segment in a given ratio",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-trigonometry",
+          "name": "Trigonometry",
+          "description": "Introduction and applications of trigonometry.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-intro-trigonometry",
+              "name": "Introduction to Trigonometry",
+              "description": "Basics of trigonometric ratios and identities",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-applications-trigonometry",
+              "name": "Applications of Trigonometry",
+              "description": "Using trigonometry to solve height and distance problems",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-mensuration",
+      "name": "Mensuration",
+      "description": "Measurement of geometric figures and three-dimensional shapes.",
+      "subjectId": "math",
+      "subtopics": [
+        {
+          "id": "subtopic-circles",
+          "name": "Circles",
+          "description": "Study of circle properties and related theorems.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-circle-properties",
+              "name": "Properties of Circles",
+              "description": "Radius, diameter, circumference, and arc lengths",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-tangents-chords",
+              "name": "Tangents and Chords",
+              "description": "Properties and theorems related to tangents and chords",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-constructions",
+          "name": "Constructions",
+          "description": "Geometric constructions using a compass and straightedge.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-triangle-construction",
+              "name": "Triangle Constructions",
+              "description": "Constructing triangles given various conditions",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-circle-construction",
+              "name": "Circle Constructions",
+              "description": "Constructing circles and tangents",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-surface-volumes",
+          "name": "Surface Areas and Volumes",
+          "description": "Calculation of surface areas and volumes of 3D shapes.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-cuboid",
+              "name": "Cuboid",
+              "description": "Surface area and volume of a cuboid",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-cube",
+              "name": "Cube",
+              "description": "Surface area and volume of a cube",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-cylinder",
+              "name": "Cylinder",
+              "description": "Surface area and volume of a cylinder",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-sphere",
+              "name": "Sphere",
+              "description": "Surface area and volume of a sphere",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-cone",
+              "name": "Cone",
+              "description": "Surface area and volume of a cone",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-statistics-probability",
+      "name": "Statistics and Probability",
+      "description": "Data analysis and probability theory.",
+      "subjectId": "math",
+      "subtopics": [
+        {
+          "id": "subtopic-statistics",
+          "name": "Statistics",
+          "description": "Organizing, representing, and analyzing data.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-central-tendency",
+              "name": "Measures of Central Tendency",
+              "description": "Mean, median, and mode",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-data-handling",
+              "name": "Data Handling",
+              "description": "Collecting, organizing, and displaying data",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-probability",
+          "name": "Probability",
+          "description": "Basic concepts and methods of calculating probability.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-basic-probability",
+              "name": "Basic Probability",
+              "description": "Probability of events and simple experiments",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

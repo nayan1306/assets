@@ -1,0 +1,378 @@
+{
+  "topics": [
+    {
+      "id": "topic-chemistry",
+      "name": "Chemistry",
+      "description": "Chapters from NCERT Class 00 Science – Chemistry section.",
+      "subjectId": "science",
+      "subtopics": [
+        {
+          "id": "subtopic-chemical-reactions",
+          "name": "Chemical Reactions and Equations",
+          "description": "Study of chemical reactions, writing and balancing equations.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-introduction-reactions",
+              "name": "Introduction to Chemical Reactions",
+              "description": "Concepts, significance, and examples of chemical reactions.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-writing-equations",
+              "name": "Writing Chemical Equations",
+              "description": "Formulating chemical equations from reaction descriptions.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-balancing-equations",
+              "name": "Balancing Chemical Equations",
+              "description": "Techniques and methods for balancing equations.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-acids-bases-salts",
+          "name": "Acids, Bases and Salts",
+          "description": "Properties and reactions of acids, bases, and salts.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-properties",
+              "name": "Properties of Acids and Bases",
+              "description": "Characteristics, indicators, and examples of acids and bases.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-neutralization",
+              "name": "Neutralization Reactions",
+              "description": "Reaction mechanisms between acids and bases.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-salts-uses",
+              "name": "Salts and Their Uses",
+              "description": "Formation, properties, and applications of salts.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-metals-nonmetals",
+          "name": "Metals and Non-Metals",
+          "description": "Properties, reactions, and applications of metals and non-metals.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-metal-properties",
+              "name": "Physical and Chemical Properties of Metals",
+              "description": "Malleability, conductivity, reactivity, and extraction methods.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-nonmetal-properties",
+              "name": "Properties of Non-Metals",
+              "description": "Characteristics and behavior of non-metals.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-comparison",
+              "name": "Comparison and Applications",
+              "description": "Contrast between metals and non-metals with real-life applications.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-carbon-compounds",
+          "name": "Carbon and its Compounds",
+          "description": "Introduction to organic chemistry focusing on carbon compounds.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-carbon-bonding",
+              "name": "Bonding in Carbon Compounds",
+              "description": "Covalent bonding, hybridization, and molecular structures.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-homologous-series",
+              "name": "Homologous Series",
+              "description": "Classification and characteristics of organic compounds.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-nomenclature",
+              "name": "Nomenclature of Carbon Compounds",
+              "description": "Rules for naming organic compounds.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-periodic-classification",
+          "name": "Periodic Classification of Elements",
+          "description": "Understanding the periodic table and periodic trends.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-historical-development",
+              "name": "Historical Development",
+              "description": "Evolution of the periodic table from early classifications to the modern table.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-modern-table",
+              "name": "Modern Periodic Table",
+              "description": "Structure, organization, and significance of the modern periodic table.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-periodic-trends",
+              "name": "Periodic Trends",
+              "description": "Trends in atomic size, ionization energy, and electronegativity.",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-biology",
+      "name": "Biology",
+      "description": "Chapters from NCERT Class 00 Science – Biology section.",
+      "subjectId": "science",
+      "subtopics": [
+        {
+          "id": "subtopic-life-processes",
+          "name": "Life Processes",
+          "description": "Nutrition, respiration, transportation, and excretion in living organisms.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-nutrition",
+              "name": "Nutrition",
+              "description": "Types of nutrition and the process of food assimilation.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-respiration",
+              "name": "Respiration",
+              "description": "Mechanisms of breathing and cellular respiration.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-transportation-excretion",
+              "name": "Transportation and Excretion",
+              "description": "Circulatory system and waste removal processes.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-control-coordination",
+          "name": "Control and Coordination",
+          "description": "Mechanisms that regulate and coordinate body functions.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-nervous-system",
+              "name": "Nervous System",
+              "description": "Structure and function of the nervous system including reflex actions.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-hormonal-regulation",
+              "name": "Hormonal Regulation",
+              "description": "Role of hormones in maintaining body functions.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-reproduction",
+          "name": "How do Organisms Reproduce?",
+          "description": "Study of reproductive processes in plants and animals.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-asexual-reproduction",
+              "name": "Asexual Reproduction",
+              "description": "Mechanisms and examples of asexual reproduction.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-sexual-reproduction",
+              "name": "Sexual Reproduction",
+              "description": "Process of sexual reproduction and development of reproductive organs.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-heredity-evolution",
+          "name": "Heredity and Evolution",
+          "description": "Principles of inheritance and evolutionary processes.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-mendelian-genetics",
+              "name": "Mendelian Genetics",
+              "description": "Laws of inheritance based on Mendel's experiments.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-evolution",
+              "name": "Evolution",
+              "description": "Concepts, evidence, and theories of evolution.",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-physics",
+      "name": "Physics",
+      "description": "Chapters from NCERT Class 00 Science – Physics section.",
+      "subjectId": "science",
+      "subtopics": [
+        {
+          "id": "subtopic-light",
+          "name": "Light – Reflection and Refraction",
+          "description": "Study of light, its reflection and refraction properties.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-reflection",
+              "name": "Reflection",
+              "description": "Laws of reflection, plane mirrors, and image formation.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-refraction",
+              "name": "Refraction",
+              "description": "Laws of refraction and basics of lens optics.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-formulae",
+              "name": "Mirror and Lens Formulae",
+              "description": "Key formulas for spherical mirrors and lenses.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-electricity",
+          "name": "Electricity",
+          "description": "Understanding electric current, circuits, and associated phenomena.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-circuits",
+              "name": "Electric Current and Circuits",
+              "description": "Basics of electric circuits, components, and current flow.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-ohms-law",
+              "name": "Ohm's Law",
+              "description": "Relationship between voltage, current, and resistance.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-magnetic-effects",
+          "name": "Magnetic Effects of Electric Current",
+          "description": "Exploring how electric current produces magnetic effects.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-magnetic-field",
+              "name": "Magnetic Field",
+              "description": "Properties and visualization of magnetic fields around conductors.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-electromagnetic-induction",
+              "name": "Electromagnetic Induction",
+              "description": "Principles of induction and Faraday's law.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-sources-energy",
+          "name": "Sources of Energy",
+          "description": "Overview of various energy sources and their applications.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-conventional-energy",
+              "name": "Conventional Energy Sources",
+              "description": "Fossil fuels and traditional energy resources.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-nonconventional-energy",
+              "name": "Non-Conventional Energy Sources",
+              "description": "Renewable sources such as solar, wind, and hydroelectric power.",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "topic-environment",
+      "name": "Our Environment and Natural Resources",
+      "description": "Chapters from NCERT Class 00 Science – Environment section.",
+      "subjectId": "science",
+      "subtopics": [
+        {
+          "id": "subtopic-our-environment",
+          "name": "Our Environment",
+          "description": "Understanding our natural environment and related issues.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-ecosystem",
+              "name": "Ecosystem",
+              "description": "Structure, function, and components of ecosystems.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-biodiversity",
+              "name": "Biodiversity",
+              "description": "Importance, types, and threats to biodiversity.",
+              "cardCount": 0
+            }
+          ]
+        },
+        {
+          "id": "subtopic-management-resources",
+          "name": "Management of Natural Resources",
+          "description": "Strategies for conservation and sustainable management of resources.",
+          "cardCount": 0,
+          "subsubtopics": [
+            {
+              "id": "subsubtopic-sustainable-practices",
+              "name": "Sustainable Practices",
+              "description": "Principles and examples of sustainable resource use.",
+              "cardCount": 0
+            },
+            {
+              "id": "subsubtopic-pollution-control",
+              "name": "Pollution Control",
+              "description": "Techniques and policies for managing pollution and waste.",
+              "cardCount": 0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
