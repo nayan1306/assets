@@ -1,91 +1,168 @@
 {
-    "topics": [
-      {
-        "id": "topic-science-1",
-        "name": "Science Topics",
-        "description": "Explore various topics in Science",
-        "subjectId": "science",
-        "subtopics": [
-          {
-            "id": "subtopic-physics",
-            "name": "Physics",
-            "description": "Study of matter, energy, and the interaction between them",
-            "cardCount": 15,
-            "subsubtopics": [
-              {
-                "id": "subsubtopic-mechanics",
-                "name": "Mechanics",
-                "description": "Study of motion and forces",
-                "cardCount": 5
-              },
-              {
-                "id": "subsubtopic-electricity",
-                "name": "Electricity",
-                "description": "Study of electric charges and currents",
-                "cardCount": 4
-              },
-              {
-                "id": "subsubtopic-optics",
-                "name": "Optics",
-                "description": "Study of light and vision",
-                "cardCount": 6
-              }
-            ]
-          },
-          {
-            "id": "subtopic-chemistry",
-            "name": "Chemistry",
-            "description": "Study of matter, its properties, and reactions",
-            "cardCount": 12,
-            "subsubtopics": [
-              {
-                "id": "subsubtopic-periodic",
-                "name": "Periodic Table",
-                "description": "Elements and their properties",
-                "cardCount": 4
-              },
-              {
-                "id": "subsubtopic-bonding",
-                "name": "Chemical Bonding",
-                "description": "How atoms combine to form molecules",
-                "cardCount": 5
-              },
-              {
-                "id": "subsubtopic-acids",
-                "name": "Acids and Bases",
-                "description": "Properties and reactions of acids and bases",
-                "cardCount": 3
-              }
-            ]
-          },
-          {
-            "id": "subtopic-biology",
-            "name": "Biology",
-            "description": "Study of living organisms and their interactions",
-            "cardCount": 18,
-            "subsubtopics": [
-              {
-                "id": "subsubtopic-cell",
-                "name": "Cell Biology",
-                "description": "Structure and function of cells",
-                "cardCount": 6
-              },
-              {
-                "id": "subsubtopic-genetics",
-                "name": "Genetics",
-                "description": "Study of genes and heredity",
-                "cardCount": 7
-              },
-              {
-                "id": "subsubtopic-physiology",
-                "name": "Human Physiology",
-                "description": "Functions of human body systems",
-                "cardCount": 5
-              }
-            ]
-          }
-        ]
-      }
-    ]
-  }
-  
+  "topics": [
+    {
+      "id": "topic-history",
+      "name": "History",
+      "description": "India and the Contemporary World – II",
+      "subjectId": "history",
+      "subtopics": [
+        {
+          "id": "subtopic-nationalism-europe",
+          "name": "The Rise of Nationalism in Europe",
+          "description": "Exploring the rise of nation-states in Europe.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-nationalism-india",
+          "name": "Nationalism in India",
+          "description": "Understanding the Indian national movement.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-global-world",
+          "name": "The Making of a Global World",
+          "description": "Examining global interactions and their impacts.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-industrialisation",
+          "name": "The Age of Industrialisation",
+          "description": "Studying the industrial revolution and its effects.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-print-culture",
+          "name": "Print Culture and the Modern World",
+          "description": "Analyzing the evolution of print media.",
+          "cardCount": 5
+        }
+      ]
+    },
+    {
+      "id": "topic-geography",
+      "name": "Geography",
+      "description": "Contemporary India – II",
+      "subjectId": "geography",
+      "subtopics": [
+        {
+          "id": "subtopic-resources",
+          "name": "Resources and Development",
+          "description": "Understanding types and development of resources.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-forest-wildlife",
+          "name": "Forest and Wildlife Resources",
+          "description": "Conservation and management of forests and wildlife.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-water-resources",
+          "name": "Water Resources",
+          "description": "Utilization and conservation of water resources.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-agriculture",
+          "name": "Agriculture",
+          "description": "Agricultural practices and their significance.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-minerals",
+          "name": "Minerals and Energy Resources",
+          "description": "Types and distribution of minerals and energy resources.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-industries",
+          "name": "Manufacturing Industries",
+          "description": "Role and distribution of manufacturing industries.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-transport",
+          "name": "Lifelines of National Economy",
+          "description": "Transportation and communication networks.",
+          "cardCount": 5
+        }
+      ]
+    },
+    {
+      "id": "topic-political-science",
+      "name": "Political Science",
+      "description": "Democratic Politics – II",
+      "subjectId": "political-science",
+      "subtopics": [
+        {
+          "id": "subtopic-power-sharing",
+          "name": "Power Sharing",
+          "description": "Mechanisms of power distribution in democracies.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-federalism",
+          "name": "Federalism",
+          "description": "Division of powers between central and state governments.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-diversity",
+          "name": "Gender, Religion and Caste",
+          "description": "Social divisions and their impact on politics.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-political-parties",
+          "name": "Political Parties",
+          "description": "Role and function of political parties in a democracy.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-outcomes-democracy",
+          "name": "Outcomes of Democracy",
+          "description": "Evaluating the performance of democratic systems.",
+          "cardCount": 5
+        }
+      ]
+    },
+    {
+      "id": "topic-economics",
+      "name": "Economics",
+      "description": "Understanding Economic Development",
+      "subjectId": "economics",
+      "subtopics": [
+        {
+          "id": "subtopic-development",
+          "name": "Development",
+          "description": "Concepts and indicators of development.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-sectors-economy",
+          "name": "Sectors of the Indian Economy",
+          "description": "Primary, secondary, and tertiary sectors.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-money-credit",
+          "name": "Money and Credit",
+          "description": "Role of money and financial institutions.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-globalisation",
+          "name": "Globalisation and the Indian Economy",
+          "description": "Impact of globalization on India's economy.",
+          "cardCount": 5
+        },
+        {
+          "id": "subtopic-consumer-rights",
+          "name": "Consumer Rights",
+          "description": "Awareness and protection of consumer rights.",
+          "cardCount": 5
+        }
+      ]
+    }
+  ]
+}
