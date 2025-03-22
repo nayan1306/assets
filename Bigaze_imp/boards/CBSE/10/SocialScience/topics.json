@@ -4,7 +4,7 @@
       "id": "topic-history",
       "name": "History",
       "description": "India and the Contemporary World – II",
-      "subjectId": "history",
+      "subjectId": "social science",
       "subtopics": [
         {
           "id": "subtopic-nationalism-europe",
@@ -42,7 +42,7 @@
       "id": "topic-geography",
       "name": "Geography",
       "description": "Contemporary India – II",
-      "subjectId": "geography",
+      "subjectId": "social science",
       "subtopics": [
         {
           "id": "subtopic-resources",
@@ -92,7 +92,7 @@
       "id": "topic-political-science",
       "name": "Political Science",
       "description": "Democratic Politics – II",
-      "subjectId": "political-science",
+      "subjectId": "social science",
       "subtopics": [
         {
           "id": "subtopic-power-sharing",
@@ -130,7 +130,7 @@
       "id": "topic-economics",
       "name": "Economics",
       "description": "Understanding Economic Development",
-      "subjectId": "economics",
+      "subjectId": "social science",
       "subtopics": [
         {
           "id": "subtopic-development",
